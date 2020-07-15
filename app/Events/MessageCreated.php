@@ -16,8 +16,6 @@ class MessageCreated implements ShouldBroadcast
 
     public function broadcastOn()
     {
-       // return new Channel('messages');
-        return new \Illuminate\Broadcasting\Channel('messages');
-
+        return new Channel('messages');
     }
 }
