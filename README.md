@@ -10,11 +10,11 @@ It's a source code for the following article on the medium:
 
 **As an initial setup of project, make sure that you have executed the following commands:**
 ```
-    npm install
-    composer install
-    php artisan key:generate
-    php artisan config:clear
-    php artisan serve
+npm install
+composer install
+php artisan key:generate
+php artisan config:clear
+php artisan serve
 ```
 **And you need to start Laravel Echo Server by executing the following command (in separate console):**
 ```
