@@ -6,7 +6,7 @@ This project is sample application displaying how user can create and broadcast 
 
 It's a source code for the following article on the medium:
 
-- www.mediumg.com
+- https://medium.com/@zoransasko/receiving-laravel-echo-socket-io-messages-in-android-application-a2e1a3d83c5d
 
 **As an initial setup of project, make sure that you have executed the following commands:**
 ```
